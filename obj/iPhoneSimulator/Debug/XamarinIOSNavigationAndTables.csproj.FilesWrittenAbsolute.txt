@@ -1,0 +1,9 @@
+/Users/pierosilvestri/Projects/XamarinIOSNavigationAndTables/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/pierosilvestri/Projects/XamarinIOSNavigationAndTables/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/pierosilvestri/Projects/XamarinIOSNavigationAndTables/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_PartialAppManifest.items
+/Users/pierosilvestri/Projects/XamarinIOSNavigationAndTables/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/pierosilvestri/Projects/XamarinIOSNavigationAndTables/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/
+/Users/pierosilvestri/Projects/XamarinIOSNavigationAndTables/bin/iPhoneSimulator/Debug/XamarinIOSNavigationAndTables.pdb
+/Users/pierosilvestri/Projects/XamarinIOSNavigationAndTables/bin/iPhoneSimulator/Debug/XamarinIOSNavigationAndTables.exe
+/Users/pierosilvestri/Projects/XamarinIOSNavigationAndTables/obj/iPhoneSimulator/Debug/XamarinIOSNavigationAndTables.exe
+/Users/pierosilvestri/Projects/XamarinIOSNavigationAndTables/obj/iPhoneSimulator/Debug/XamarinIOSNavigationAndTables.pdb
