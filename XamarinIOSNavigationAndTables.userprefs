@@ -1,11 +1,18 @@
 ﻿<Properties StartupConfiguration="{65656D3D-049A-4B62-8D98-C84D9FD01BBF}|Default">
   <MonoDevelop.Ide.ItemProperties.XamarinIOSNavigationAndTables PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D3BDB29F-D5BA-4FAD-961F-37D5767A2632" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HomeViewController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TableViewController.cs">
     <Files>
       <File FileName="AppDelegate.cs" Line="1" Column="1" />
-      <File FileName="Main.storyboard" />
       <File FileName="HomeViewController.designer.cs" Line="1" Column="1" />
-      <File FileName="HomeViewController.cs" Line="13" Column="23" />
+      <File FileName="HomeViewController.cs" Line="24" Column="4" />
+      <File FileName="DataSources/PersonTableSource.cs" Line="70" Column="26" />
+      <File FileName="TableViewController.cs" Line="22" Column="35" />
+      <File FileName="Models/Person.cs" Line="16" Column="4" />
+      <File FileName="DetailViewController.cs" Line="11" Column="1" />
+      <File FileName="TableViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="ViewController.cs" Line="18" Column="4" />
+      <File FileName="Main.storyboard" />
+      <File FileName="Entitlements.plist" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
